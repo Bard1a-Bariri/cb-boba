@@ -1,0 +1,15 @@
+img {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+h1 {
+    color: blue;
+    font: 30px bold sans-serif;
+}
+body {
+    text-align: center;
+    font-family: Arial;
+    background: lightgoldenrodyellow;
+    color: rgb(179, 45, 67);
+}
